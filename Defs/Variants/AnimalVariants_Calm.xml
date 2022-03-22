@@ -1,0 +1,103 @@
+
+<Defs>
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Chonk</defName>
+    <label>bigger than most</label>
+  </SPM1.PersonalityVariant>
+
+   <SPM1.PersonalityVariant>
+    <defName>SP_Animal_ResidentSleeper</defName>
+    <label>sleeping a lot</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_FeetBump</defName>
+    <label>choosing weird places to sleep</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_LapRegular</defName>
+    <label>a lap animal</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_StaringContestChampion</defName>
+    <label>truly persistent</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_HorriblySlowStalker</defName>
+    <label>a slow stalker</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Sunbather</defName>
+    <label>moving only to keep sleeping in the sun</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_BedDweller</defName>
+    <label>lazy</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_BlepSpecialist</defName>
+    <label>very patient</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Loner</defName>
+    <label>a loner</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Sleepyhead</defName>
+    <label>a deep sleeper</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Laggard</defName>
+    <label>a laggard</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Slowpoke</defName>
+    <label>stubborn</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_DillyDallyer</defName>
+    <label>laid back</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Landmark</defName>
+    <label>rarely running</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_CEO</defName>
+    <label>a careful observer</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Maruder</defName>
+    <label>always lagging behind</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Catnip</defName>
+    <label>developing a taste for catnip</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_BOB</defName>
+    <label>a beast of burden</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_GentleGiant</defName>
+    <label>a gentle giant</label>
+  </SPM1.PersonalityVariant>
+
+</Defs>

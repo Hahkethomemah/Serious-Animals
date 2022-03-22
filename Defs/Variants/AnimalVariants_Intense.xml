@@ -1,0 +1,97 @@
+
+<Defs>
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_BadBoy</defName>
+    <label>a bad {0}</label>
+    <ignoreIllegalLabelCharacterConfigError>True</ignoreIllegalLabelCharacterConfigError>
+    <genderReplace>
+      <li>boy/girl</li>
+    </genderReplace>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Mischief</defName>
+    <label>a troublemaker</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_FussyEater</defName>
+    <label>a fussy eater</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Bully</defName>
+    <label>a bully</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_HouseplantEater</defName>
+    <label>often destructive</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_ShoeGnawer</defName>
+    <label>agitated when left alone</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_TerritorialWarlord</defName>
+    <label>overly territorial</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_BarkingEnthusiast</defName>
+    <label>very vocal</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_FeetBiter</defName>
+    <label>aggresive</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_NeighbourChaser</defName>
+    <label>really protective</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_GreedyFetcher</defName>
+    <label>a greedy fetcher</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_PerpetualSnarler</defName>
+    <label>perpetually snarling</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_FancyPurebred</defName>
+    <label>a fancy purebred</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_MoodyDiva</defName>
+    <label>kind of fussy</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Rascal</defName>
+    <label>a rascal</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Stalker</defName>
+    <label>a stalker</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_SpoiledPup</defName>
+    <label>spoiled</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_MailmansNightmare</defName>
+    <label>the disobedient one</label>
+  </SPM1.PersonalityVariant>
+
+</Defs>

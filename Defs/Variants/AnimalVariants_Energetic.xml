@@ -1,0 +1,103 @@
+
+<Defs>
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_WalkiesAddict</defName>
+    <label>more lively when outside</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Runner</defName>
+    <label>a runner</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Howler</defName>
+    <label>howling at midnight</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_ShowOff</defName>
+    <label>often showing off</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_ClubMember</defName>
+    <label>constantly distracted</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_MessyGobbler</defName>
+    <label>messy eater</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Escapist</defName>
+    <label>an escapist</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Sprinter</defName>
+    <label>a sprinter</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_LegHumper</defName>
+    <label>unusually prolific</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Ambusher</defName>
+    <label>an ambusher</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Smudge</defName>
+    <label>faster than looks</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_ZoomiesFanatic</defName>
+    <label>remarkably quick</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Mudmobile</defName>
+    <label>hard to catch</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Quicksilver</defName>
+    <label>never sitting still</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Flash</defName>
+    <label>particularly fast</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Fleabag</defName>
+    <label>a curious animal</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_UnLeashable</defName>
+    <label>often trying to break off the leash</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_WaggingMachine</defName>
+    <label>very social</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_FartHopper</defName>
+    <label>just happy to run</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_EscapeArtist</defName>
+    <label>an escape artist</label>
+  </SPM1.PersonalityVariant>
+
+</Defs>

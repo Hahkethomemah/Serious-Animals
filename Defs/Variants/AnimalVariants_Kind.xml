@@ -1,0 +1,115 @@
+
+<Defs>
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_GoodBoy</defName>
+    <label>a good {0}</label> <!-- The {0} is replaced using the genderReplace list -->
+    <ignoreIllegalLabelCharacterConfigError>True</ignoreIllegalLabelCharacterConfigError>
+    <genderReplace>
+      <li>boy/girl</li> <!-- The first item is male (or genderless), second is female -->
+    </genderReplace>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Hugger</defName>
+    <label>a hugger</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_PackLeader</defName>
+    <label>a pack leader</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_BestFriend</defName>
+    <label>man's best friend</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Snuggler</defName>
+    <label>a snuggler</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Floof</defName>
+    <label>very hairy</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_PoopProducer</defName>
+    <label>happily spreading dirt</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Yelper</defName>
+    <label>a loudmouth</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Alpha</defName>
+    <label>the alpha {0}</label>
+    <ignoreIllegalLabelCharacterConfigError>True</ignoreIllegalLabelCharacterConfigError>
+    <genderReplace>
+      <li>male/female</li>
+    </genderReplace>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_ToyHoarder</defName>
+    <label>a toy hoarder</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_DirtCarrier</defName>
+    <label>a mess-maker</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_ExhibitionVeteran</defName>
+    <label>an exhibiton veteran</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Fondling</defName>
+    <label>a joyful animal</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_GoodestBoy</defName>
+    <label>the best {0}</label>
+    <ignoreIllegalLabelCharacterConfigError>True</ignoreIllegalLabelCharacterConfigError>
+    <genderReplace>
+      <li>boy/girl</li>
+    </genderReplace>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Runt</defName>
+    <label>the runt of the litter</label>
+  </SPM1.PersonalityVariant>
+
+   <SPM1.PersonalityVariant>
+    <defName>SP_Animal_CutiePie</defName>
+    <label>a cute animal</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_CutenessOverload</defName>
+    <label>very friendly</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_SlipperBringer</defName>
+    <label>great at fetch</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_LoyalOne</defName>
+    <label>the loyal one</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_FaceLicker</defName>
+    <label>easily attached</label>
+  </SPM1.PersonalityVariant>
+
+</Defs>
