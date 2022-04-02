@@ -71,7 +71,7 @@
 
   <SPM1.PersonalityVariant>
     <defName>SP_Animal_MoodyDiva</defName>
-    <label>kind of fussy</label>
+    <label>kind of a fussy</label>
   </SPM1.PersonalityVariant>
 
   <SPM1.PersonalityVariant>
@@ -92,6 +92,21 @@
   <SPM1.PersonalityVariant>
     <defName>SP_Animal_MailmansNightmare</defName>
     <label>the disobedient one</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_ExtremeHorndog</defName>
+    <label>never in a mood</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Whirlwind</defName>
+    <label>constantly breaking things</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_Sexual</defName>
+    <label>very sexually active</label>
   </SPM1.PersonalityVariant>
 
 </Defs>

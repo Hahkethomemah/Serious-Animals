@@ -100,4 +100,14 @@
     <label>an escape artist</label>
   </SPM1.PersonalityVariant>
 
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_KitchenRaider</defName>
+    <label>a frequent guest in the kitchen</label>
+  </SPM1.PersonalityVariant>
+
+  <SPM1.PersonalityVariant>
+    <defName>SP_Animal_WalkingDisaster</defName>
+    <label>very inattentive</label>
+  </SPM1.PersonalityVariant>
+
 </Defs>
